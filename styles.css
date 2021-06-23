@@ -67,5 +67,7 @@ a:hover img{
   filter: grayscale(100%);
 }
 
-
+a {
+    text-decoration: none;
+}
 
