@@ -1,7 +1,7 @@
 h1{
     font-weight: bold;
     color: white;
-    text-shadow: 6px 6px 8px #572d2d;
+    text-shadow: 7px 7px 9px #423e3e;
 }
 
 h2{
@@ -10,5 +10,65 @@ h2{
 }
 
 header{
-    background-color: maroon;
+    background-color: black;
 }
+
+footer{
+    background: 
+}
+
+.footer-top {
+    padding: 60px 0; background: #333; text-align: left; color: #aaa; 
+}
+
+.footer-top h3 {
+    padding-bottom: 10px; color: #fff; 
+}
+
+.footer-top {
+    padding: 40px 0; text-align: center; 
+}
+
+.footer-about img.logo-footer { 
+    max-width: 74px; margin-top: 0; margin-bottom: 18px; 
+}
+
+.footer-about p a {
+    color: #aaa; border-bottom: 1px dashed #666; 
+}
+
+.footer-about p a:hover, .footer-about p a:focus {
+    color: #fff; border-color: #aaa; 
+}
+
+.footer-contact p { 
+    word-wrap: break-word; 
+}
+
+.footer-contact i {
+    padding-right: 10px; font-size: 18px; color: #666; 
+}
+
+.footer-contact p a { 
+    color: #aaa; border-bottom: 1px dashed #666; 
+}
+
+.footer-contact p a:hover, .footer-contact p a:focus { 
+    color: #fff; border-color: #aaa; 
+}
+
+.footer-contact i {
+    padding-right: 5px; 
+}
+
+img {
+  filter: grayscale(100%);
+}
+
+a:hover img{
+  color: red;
+  filter: grayscale(0%);
+}
+
+
+
